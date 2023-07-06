@@ -1,2 +1,2 @@
-USER_NAME = 'Spectrum_Bot_Sp'
-PASSWORD = 'Fazeel786!'
+USER_NAME = 'Your User Name'
+PASSWORD = 'Your Password'
